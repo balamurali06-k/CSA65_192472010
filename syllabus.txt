@@ -1,0 +1,100 @@
+COURSE: Natural Language Processing
+
+UNIT 1: INTRODUCTION TO NLP
+Topics include:
+- Introduction to Natural Language Processing
+- Applications of NLP
+- Text preprocessing
+- Tokenization
+- Stemming
+- Lemmatization
+- Regular expressions
+- N-gram language models
+
+UNIT 2: LANGUAGE MODELS
+Topics include:
+- Unigram models
+- Bigram models
+- Trigram models
+- Probability estimation
+- Smoothing techniques
+
+UNIT 3: SYNTACTIC ANALYSIS
+Topics include:
+- Context Free Grammar
+- Parse trees
+- Constituency parsing
+- Dependency parsing
+
+UNIT 4: SEMANTIC ANALYSIS
+Topics include:
+- Word meaning
+- Word embeddings
+- Semantic similarity
+- Named Entity Recognition
+- Word Sense Disambiguation
+
+UNIT 5: TRANSFORMERS AND LARGE LANGUAGE MODELS
+Topics include:
+- Attention mechanism
+- Transformer architecture
+- BERT
+- GPT
+- Text generation
+- Question answering
+- Retrieval Augmented Generation (RAG)
+
+COURSE: Natural Language Processing
+
+UNIT 1: INTRODUCTION TO NLP
+Topics include:
+- Introduction to Natural Language Processing
+- Applications of NLP
+- Text preprocessing
+- Tokenization
+- Stemming
+- Lemmatization
+- Regular expressions
+- N-gram language models
+
+UNIT 2: LANGUAGE MODELS
+Topics include:
+- Unigram models
+- Bigram models
+- Trigram models
+- Probability estimation
+- Smoothing techniques
+
+UNIT 3: SYNTACTIC ANALYSIS
+Topics include:
+- Context Free Grammar
+- Parse trees
+- Constituency parsing
+- Dependency parsing
+
+UNIT 4: SEMANTIC ANALYSIS
+Topics include:
+- Word meaning
+- Word embeddings
+- Semantic similarity
+- Named Entity Recognition
+- Word Sense Disambiguation
+
+UNIT 5: TRANSFORMERS AND LARGE LANGUAGE MODELS
+Topics include:
+- Attention mechanism
+- Transformer architecture
+- BERT
+- GPT
+- Text generation
+- Question answering
+- Retrieval Augmented Generation (RAG)
+COURSE: Natural Language Processing
+
+UNIT 3: SYNTACTIC ANALYSIS
+
+Topics include:
+- Context Free Grammar
+- Parse trees
+- Constituency parsing
+- Dependency parsing
